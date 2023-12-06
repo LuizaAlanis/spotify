@@ -41,6 +41,8 @@ Este projeto é um clone simplificado do Spotify, implementado em React. Que inc
 - Estica os itens ao longo do eixo transversal (eixo vertical neste caso) para preencher o contêiner com *"stretch"*.
 - Centralizo os itens tanto ao longo do eixo horizontal quanto do vertical na célula da grade com *center*.
 
+*** 
+
 2) As vantagens de implementar Styled Components
 
 - **Encapsulação:** Cria estilos encapsulados para cada componente, evitando poluição do escopo global de estilos e reduzindo possíveis conflitos.

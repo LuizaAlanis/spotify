@@ -1,0 +1,47 @@
+/* Reset CSS */
+
+/* Box sizing rules */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+/* Remove default margin */
+body, h1, h2, h3, p, figure, blockquote, dl, dd {
+    margin: 0;
+}
+
+/* Remove list styles on ul, ol elements */
+ul, ol {
+    list-style: none;
+}
+
+/* Remove default padding */
+figure, p {
+    padding: 0;
+}
+
+/* Set core body defaults */
+body {
+    line-height: 1.5;
+}
+
+/* Remove text decoration */
+a {
+    text-decoration: none;
+}
+
+/* Remove text underline on hover */
+a:hover {
+    text-decoration: none;
+}
+
+/* Remove outline on focus */
+button:focus {
+    outline: none;
+}
+
+/* Remove default table border */
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}

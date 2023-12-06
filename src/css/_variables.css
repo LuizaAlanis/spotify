@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+:root {
+    --black: #000000;
+    --section: #101010;
+    --card: #171717;
+    --font-secondary: #919191;
+
+    --font-primary: #FFFFFF;
+    --primary-color: #171717;
+
+    --font: 'Poppins', sans-serif;
+    --orange: #FF143C;
+}

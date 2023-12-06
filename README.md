@@ -1,6 +1,11 @@
 # Clone Simplificado do Spotify
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
+Você pode acessar o protótipo e o conceito pelo figma:
+[Figma link](https://www.figma.com/file/9SWaueUEExWPaTif4bUGEF/Spotify?type=design&node-id=0%3A1&mode=design&t=XuM8peV3daip1b2L-1)
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 Este projeto é um clone simplificado do Spotify, implementado em React. Que inclui:
 
 1) GRID responsivo em CSS

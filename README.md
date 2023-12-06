@@ -3,6 +3,12 @@
 
 ![ScreenShot](https://github.com/LuizaAlanis/spotify/blob/master/src/image/readme/application.png)
 
+*desktop*
+
+![ScreenShot](https://github.com/LuizaAlanis/spotify/blob/master/src/image/readme/application_mobile.png)
+
+*mobile*
+
 Você pode acessar o protótipo e o conceito pelo figma:
 [Figma link](https://www.figma.com/file/9SWaueUEExWPaTif4bUGEF/Spotify?type=design&node-id=0%3A1&mode=design&t=XuM8peV3daip1b2L-1)
 
@@ -101,6 +107,12 @@ inicie a aplicação
 ```bash
 npm start
 ```
+
+## Obs
+
+- Os dados são de um mockup pré definido mas o mesmo layout poderia ser utilizado para renderizar dados diretamente da API.
+- O design foi projeto para ser completamente responsivo com o uso do Grid layout
+- Como boa prática, inclui variáveis de css, uma boa arquitetura de diretórios e mantive a responsabilidade dos componentes bem isolada, o que proporciona o dinamismo.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

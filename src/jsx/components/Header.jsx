@@ -6,7 +6,7 @@ import Picture from '../../image/profile/people.jpg'
 const HeaderContainer = styled.header`
     display: flex;
     justify-content: space-between;
-    color: var(--font-primary);
+    color: var(--green);
     font-size: 1.6em;
     margin-bottom: 20px;
 `;

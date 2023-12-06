@@ -1,6 +1,8 @@
 # Clone Simplificado do Spotify
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
+![ScreenShot](https://github.com/LuizaAlanis/spotify/blob/master/src/image/readme/application.png)
+
 Você pode acessar o protótipo e o conceito pelo figma:
 [Figma link](https://www.figma.com/file/9SWaueUEExWPaTif4bUGEF/Spotify?type=design&node-id=0%3A1&mode=design&t=XuM8peV3daip1b2L-1)
 
